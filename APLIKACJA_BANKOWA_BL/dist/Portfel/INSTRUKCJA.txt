@@ -1,0 +1,8 @@
+PORTFEL — INSTRUKCJA URUCHOMIENIA
+
+1. Uruchom plik Portfel.exe.
+2. Pozostaw plik EXE, biblioteki DLL i podkatalogi Qt razem w tym folderze.
+3. Dane finansowe aplikacji są zapisywane lokalnie na komputerze użytkownika.
+
+Portfel służy do zapisywania przychodów, wydatków i budżetów. Nie łączy się
+z bankiem i nie wykonuje płatności.
